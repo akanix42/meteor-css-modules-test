@@ -1,4 +1,4 @@
 .hello {
-    color: red;
+    color: purple;
     composes: b from "./b.mss";
 }

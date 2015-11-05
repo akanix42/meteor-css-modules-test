@@ -1,4 +1,4 @@
 .b {
-    color: blue;
     font-weight: bold;
+    font-size: 14px;
 }
