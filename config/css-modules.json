@@ -1,0 +1,14 @@
+{
+  "postcssPlugins": [
+	"values",
+	"nestedProps",
+	"nested",
+	"colorHexAlpha",
+	"mediaMinMax",
+	"anyLink",
+	"notSelector",
+	"localByDefault",
+	"extractImports",
+	"scope"
+  ]
+}
