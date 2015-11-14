@@ -6,6 +6,6 @@
 
 .oh-hi-there {
 	button {
-		color: orange;
+		color: $blue;
 	}
 }

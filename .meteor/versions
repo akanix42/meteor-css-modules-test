@@ -47,6 +47,8 @@ nathantreid:css-modules@0.4.1
 nathantreid:css-modules-import-path-helpers@0.0.1
 nathantreid:css-modules-js-compiler@0.0.1
 nathantreid:css-modules-mss-compiler@0.4.1
+nathantreid:json-watcher@0.0.1
+nathantreid:test2@0.0.1
 npm-mongo@1.4.39_1
 observe-sequence@1.0.7
 ordered-dict@1.0.4

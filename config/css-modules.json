@@ -1,7 +1,8 @@
 {
   "postcssPlugins": [
-	"values",
+	"simpleVars",
 	"nestedProps",
+	"values",
 	"nested",
 	"colorHexAlpha",
 	"mediaMinMax",
@@ -10,5 +11,11 @@
 	"localByDefault",
 	"extractImports",
 	"scope"
+  ],
+  "globalVariableFiles": [
+	"client/colors.json",
+	"client/fonts.json",
+	"{test}/colors.json",
+	"{nathantreid:test2}/colors.json"
   ]
 }
