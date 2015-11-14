@@ -1,7 +1,7 @@
 .hello {
+    composes: b from "./b.mss";
     color: purple;
 
-    composes: b from "./b.mss";
 }
 
 .oh-hi-there {
