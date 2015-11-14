@@ -1,3 +1,5 @@
 {
-  "blue": "green"
+  "variables": {
+	"blue": "green"
+  }
 }

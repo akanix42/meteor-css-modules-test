@@ -43,10 +43,10 @@ mobile-experience@1.0.1
 mobile-status-bar@1.0.6
 mongo@1.1.3
 mongo-id@1.0.1
-nathantreid:css-modules@0.4.1
+nathantreid:css-modules@1.0.0
 nathantreid:css-modules-import-path-helpers@0.0.1
 nathantreid:css-modules-js-compiler@0.0.1
-nathantreid:css-modules-mss-compiler@0.4.1
+nathantreid:css-modules-mss-compiler@1.0.0
 nathantreid:json-watcher@0.0.1
 nathantreid:test2@0.0.1
 npm-mongo@1.4.39_1

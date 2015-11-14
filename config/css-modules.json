@@ -1,21 +1,61 @@
-{
-  "postcssPlugins": [
-	"simpleVars",
-	"nestedProps",
-	"values",
-	"nested",
-	"colorHexAlpha",
-	"mediaMinMax",
-	"anyLink",
-	"notSelector",
-	"localByDefault",
-	"extractImports",
-	"scope"
-  ],
-  "globalVariableFiles": [
-	"client/colors.json",
-	"client/fonts.json",
-	"{test}/colors.json",
-	"{nathantreid:test2}/colors.json"
-  ]
-}
+	 {
+	 "version": "1.0.0",
+	 "postcssPlugins": [
+	 {
+	 "package": "postcss-simple-vars",
+	 "version": "1.1.0",
+	 // Pass options variables directly here:
+	 //	  "options": {
+	 //		"variables": {
+	 //		}
+	 //	  },
+	 //
+	 // And/Or load them via files
+	 "optionsFiles": [
+	   "client/colors.json"
+	 // "path/to/options/file.json"
+	 ]
+	 },
+	 {
+	 "package": "postcss-nested-props",
+	 "version": "1.0.0"
+	 },
+	 {
+	 "package": "postcss-modules-values",
+	 "version": "1.1.1"
+	 },
+	 {
+	 "package": "postcss-nested",
+	 "version": "1.0.0"
+	 },
+	 {
+	 "package": "postcss-color-hex-alpha",
+	 "version": "2.0.0"
+	 },
+	 {
+	 "package": "postcss-media-minmax",
+	 "version": "2.1.0"
+	 },
+	 {
+	 "package": "postcss-pseudo-class-any-link",
+	 "version": "1.0.0"
+	 },
+	 {
+	 "package": "postcss-selector-not",
+	 "version": "2.0.0"
+	 },
+	 {
+	 "package": "postcss-modules-local-by-default",
+	 "version": "1.0.0"
+	 },
+	 {
+	 "package": "postcss-modules-extract-imports",
+	 "version": "1.0.0"
+	 },
+	 {
+	 "package": "postcss-modules-scope",
+	 "version": "1.0.0"
+	 }
+	 ]
+	 }
+
