@@ -5,10 +5,11 @@
 	 "package": "postcss-simple-vars",
 	 "version": "1.1.0",
 	 // Pass options variables directly here:
-	 //	  "options": {
-	 //		"variables": {
-	 //		}
-	 //	  },
+	 	  "options": {
+	 		"variables": {
+			  "orange": "orange"
+	 		}
+	 	  },
 	 //
 	 // And/Or load them via files
 	 "optionsFiles": [

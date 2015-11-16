@@ -1,6 +1,6 @@
 .hello {
     composes: b from "./b.mss";
-    color: purple;
+    color: $orange;
 
 }
 
