@@ -1,5 +1,5 @@
 	 {
-	 "version": "1.0.0",
+	 "version": "0.5.0",
 	 "postcssPlugins": [
 	 {
 	 "package": "postcss-simple-vars",
@@ -12,7 +12,6 @@
 	 //
 	 // And/Or load them via files
 	 "optionsFiles": [
-	   "client/colors.json"
 	 // "path/to/options/file.json"
 	 ]
 	 },
@@ -58,4 +57,4 @@
 	 }
 	 ]
 	 }
-
+	 
