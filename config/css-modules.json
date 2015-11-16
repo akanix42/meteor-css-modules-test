@@ -12,7 +12,8 @@
 	 //
 	 // And/Or load them via files
 	 "optionsFiles": [
-	 // "path/to/options/file.json"
+	   "client/colors.json"
+	   // "path/to/options/file.json"
 	 ]
 	 },
 	 {
@@ -57,4 +58,4 @@
 	 }
 	 ]
 	 }
-	 
+
