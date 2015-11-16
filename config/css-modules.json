@@ -13,7 +13,8 @@
 	 //
 	 // And/Or load them via files
 	 "optionsFiles": [
-	   "client/colors.json"
+	   "client/colors.json",
+	   "client/fonts.json"
 	   // "path/to/options/file.json"
 	 ]
 	 },

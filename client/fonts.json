@@ -1,3 +1,5 @@
 {
-  "bold": "16px"
+  "variables": {
+	"bold": "16px"
+  }
 }
