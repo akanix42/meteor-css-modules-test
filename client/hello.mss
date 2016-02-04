@@ -1,3 +1,5 @@
+$brand: red;
+
 .hello {
     composes: b from "./b.mss";
     color: $orange;
